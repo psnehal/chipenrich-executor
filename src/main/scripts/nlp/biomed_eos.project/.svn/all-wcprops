@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/biomed_eos.project
+END
+model.param
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/biomed_eos.project/model.param
+END
+features.fmap
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/biomed_eos.project/features.fmap
+END
+abbrev
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/biomed_eos.project/abbrev
+END
+events
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/biomed_eos.project/events
+END
+features.contexts
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/biomed_eos.project/features.contexts
+END
+model.info
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/biomed_eos.project/model.info
+END
+events.info
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/biomed_eos.project/events.info
+END
+features
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/biomed_eos.project/features
+END

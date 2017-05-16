@@ -1,0 +1,23 @@
+uploadDirectory=/usr/share/chipFileStore/Variable/
+resultDirectory=/usr/share/chipFileStore/Variable/
+rserverOutputDirectory=/usr/share/chipFileStore/Variable/
+#uploadDirectory=/usr/share/tomcat6/webapps/
+#uresultDirectory=/usr/share/tomcat6/webapps/
+#urserverOutputDirectory=/usr/share/tomcat6/webapps/
+
+#resultDirectory=/home/vmahavis/workspace/ncibi/lrpathweb/lrpathweb/target/lrpathweb/result/
+#uploadDirectory=/home/vmahavis/tomcat/ncibi/webapps/lrpathweb/upload/
+#resultDirectory=/home/vmahavis/tomcat/ncibi/webapps/lrpathweb/result/
+
+<<<<<<< .mine
+webRoot=http://chip-enrich.med.umich.edu/
+=======
+webRoot=http://chip-enrich.med.umich.edu
+>>>>>>> .r1539
+
+#webRoot=http://ncibi-web01.bicc.med.umich.edu:8080/lrpathweb
+
+mailSmtpHostKey=mail.smtp.host
+mailSmtpPortkey=mail.smtp.port
+mailSmtpHostValue=mail-relay.itd.umich.edu
+mailSmtpPortValue=25

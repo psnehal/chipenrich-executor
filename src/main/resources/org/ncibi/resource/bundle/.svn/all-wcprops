@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/projects/!svn/ver/1445/chipenrichweb/executorCode/src/main/resources/org/ncibi/resource/bundle
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/projects/!svn/ver/1445/chipenrichweb/executorCode/src/main/resources/org/ncibi/resource/bundle/database.properties
+END
+msdatabase.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/resources/org/ncibi/resource/bundle/msdatabase.properties
+END
+mssql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/resources/org/ncibi/resource/bundle/mssql.properties
+END
+sql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/resources/org/ncibi/resource/bundle/sql.properties
+END
+url.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/projects/!svn/ver/1445/chipenrichweb/executorCode/src/main/resources/org/ncibi/resource/bundle/url.properties
+END

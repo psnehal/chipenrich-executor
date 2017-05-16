@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp
+END
+englishPCFG.ser.gz
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/englishPCFG.ser.gz
+END
+mxpost.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/mxpost.sh
+END
+mxpost.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/mxpost.jar
+END
+stanford-parser.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/stanford-parser.jar
+END
+stanford_parser.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/stanford_parser.sh
+END
+run_nlp_script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/scripts/nlp/run_nlp_script.sh
+END

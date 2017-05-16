@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/java/org/ncibi/task/executor/nlp
+END
+NlpTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/java/org/ncibi/task/executor/nlp/NlpTaskExecutor.java
+END
+SegmenterArgRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/java/org/ncibi/task/executor/nlp/SegmenterArgRetriever.java
+END
+SegmenterTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/projects/!svn/ver/1288/chipenrichweb/executorCode/src/main/java/org/ncibi/task/executor/nlp/SegmenterTaskExecutor.java
+END
